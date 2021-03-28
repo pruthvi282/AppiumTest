@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="42900" started-at="2021-03-28T20:45:54 IST" finished-at="2021-03-28T20:46:37 IST">
+  <suite name="Suite" duration-ms="36108" started-at="2021-03-28T22:04:45 IST" finished-at="2021-03-28T22:05:21 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="42900" started-at="2021-03-28T20:45:54 IST" finished-at="2021-03-28T20:46:37 IST">
+    <test name="Test" duration-ms="36108" started-at="2021-03-28T22:04:45 IST" finished-at="2021-03-28T22:05:21 IST">
       <class name="com.android.ApiDemos.TestBase">
-        <test-method status="PASS" signature="serverConnection()[pri:0, instance:com.android.ApiDemos.TestBase@727803de]" name="serverConnection" is-config="true" duration-ms="7637" started-at="2021-03-28T20:45:47 IST" finished-at="2021-03-28T20:45:54 IST">
+        <test-method status="PASS" signature="serverConnection()[pri:0, instance:com.android.ApiDemos.TestBase@727803de]" name="serverConnection" is-config="true" duration-ms="8176" started-at="2021-03-28T22:04:37 IST" finished-at="2021-03-28T22:04:45 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- serverConnection -->
-        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.android.ApiDemos.TestBase@727803de]" name="launchApp" is-config="true" duration-ms="32525" started-at="2021-03-28T20:45:55 IST" finished-at="2021-03-28T20:46:27 IST">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.android.ApiDemos.TestBase@727803de]" name="launchApp" is-config="true" duration-ms="26705" started-at="2021-03-28T22:04:45 IST" finished-at="2021-03-28T22:05:12 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApp -->
-        <test-method status="PASS" signature="test()[pri:0, instance:com.android.ApiDemos.TestBase@727803de]" name="test" duration-ms="10277" started-at="2021-03-28T20:46:27 IST" finished-at="2021-03-28T20:46:37 IST">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.android.ApiDemos.TestBase@727803de]" name="test" duration-ms="9331" started-at="2021-03-28T22:05:12 IST" finished-at="2021-03-28T22:05:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="servicestop()[pri:0, instance:com.android.ApiDemos.TestBase@727803de]" name="servicestop" is-config="true" duration-ms="373" started-at="2021-03-28T20:46:37 IST" finished-at="2021-03-28T20:46:38 IST">
+        <test-method status="PASS" signature="servicestop()[pri:0, instance:com.android.ApiDemos.TestBase@727803de]" name="servicestop" is-config="true" duration-ms="426" started-at="2021-03-28T22:05:21 IST" finished-at="2021-03-28T22:05:22 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- servicestop -->
